@@ -3,18 +3,21 @@
 Persoonlijke informatie
 
 | Naam Geslacht Geboortedatum Geboorteplaats Nationaliteit Huidig adres | ![](https://cdn.mathpix.com/cropped/2025_05_27_ae269b34afa8749bad9dg-1.jpg?height=42&width=1256&top_left_y=769&top_left_x=676) | ![](https://cdn.mathpix.com/cropped/2025_05_27_ae269b34afa8749bad9dg-1.jpg?height=506&width=363&top_left_y=293&top_left_x=1568) |
+
+## Opleidingen
+| Jaar | Opleiding |  |
 | :--- | :--- | :--- |
-| Opleidingen |  |  |
-| 2009-2012 | Master of Mathematics and Science Education, MSc. Universiteit van Amsterdam |  |
-| 1999-2001 | Lerarenopleiding (Natuurkunde) $1^{\mathrm{e}}$ graad: MEd. HR\&O en ICLON, Hoge School Rotterdam \& Universiteit Leiden. |  |
-| 1995-1999 | Lerarenopleiding (Natuurkunde) $2^{\mathrm{e}}$ graad. HR\&O, Rotterdam. |  |
-| 1993-1995 | VWO: Bonaventuracollege, Leiden |  |
-| 1988-1993 | HAVO: Bonaventuracollege, Leiden |  |
+| 2009-2012 | Master of Mathematics and Science Education, MSc. Universiteit van Amsterdam |  
+| 1999-2001 | Lerarenopleiding (Natuurkunde) $1^{\mathrm{e}}$ graad: MEd. HR\&O en ICLON, Hoge School Rotterdam \& Universiteit Leiden. |  
+| 1995-1999 | Lerarenopleiding (Natuurkunde) $2^{\mathrm{e}}$ graad. HR\&O, Rotterdam. |  
+| 1993-1995 | VWO: Bonaventuracollege, Leiden |  
+| 1988-1993 | HAVO: Bonaventuracollege, Leiden | 
 
 ## Werkervaring
 
-| 2024-2025 | Rijnlands Lyceum Sassenheim Docent natuurkunde \& Science |
+| Jaar | Functie |
 | :--- | :--- |
+| 2024-2025 | Rijnlands Lyceum Sassenheim Docent natuurkunde \& Science |
 | 2014 - nu | Centrum voor Microcomputer Applicaties (CMA) (www.cma-science.nl) Vakdidacticus natuurkunde/ Coördinator nascholing Verantwoordelijk voor cursussen voor docenten en TOA's, testen en ontwikkelen van hardware en software, schrijven van handleidingen en ontwikkelen van STEM-lesmateriaal (op basis van ICT). |
 | 2001-2024 | Docent natuurkunde en science op het Fons Vitae Lyceum, Amsterdam |
 | 2012-2015 | Onderzoeker aan kosmische straling bij het Nikhef (Amsterdam), HiSPARC Project Onderzoek naar energiereconstructie van kosmische straling en ontwikkelen van STEM-lesmateriaal (deeltjes- en hoge-energiefysica) voor VWOleerlingen. |
