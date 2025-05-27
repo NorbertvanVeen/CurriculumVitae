@@ -82,6 +82,7 @@ jobs:
             url
             xcolor
             xkeyval
+            zref-abspage
 
 
 
