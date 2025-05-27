@@ -40,18 +40,36 @@ jobs:
         uses: teatimeguest/setup-texlive-action@v3
         with:
           packages: |  
+            adjustbox
+            amsfonts
+            amsmath
+            amssymb
             amsthm
             authblk
             background
+            babel
+            booktabs
+            curvenote
+            datetime
+            doi
+            enumitem
             fancyhdr
+            fancyvrb
+            float
+            framed
             fontenc
             geometry
+            graphbox
+            graphicx
             hyperref
             inputenc
             lineno
             lipsum
+            lmodern
+            microtype            
             mdframed
             natbib
+            nicefrac
             newfloat
             preprint
             scalerel
@@ -60,34 +78,13 @@ jobs:
             times
             titlesec
             txfonts
+            ulem
+            url
             xcolor
-            adjustbox
-            amsfonts
-            amsmath
-            amssymb
-  babel
-   booktabs
-   curvenote
-  datetime
-   doi
-   enumitem
-   fancyhdr
-  fancyvrb
-   float
-   framed
-  geometry
-   graphbox
- graphicx
-  hyperref
-  inputenc
-   lmodern
-  microtype
-   natbib
-   nicefrac
-   ulem
-   url
-     xcolor
-     xkeyval
+            xkeyval
+
+
+
 
       - name: Build PDF Assets
         run: myst build --pdf      
