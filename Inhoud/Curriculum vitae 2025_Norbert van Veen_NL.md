@@ -4,34 +4,32 @@ site:
   hide_outline: false
   hide_toc: true
   hide_title_block: true
-
-abstract: |
-CV t.b.v. sollicitatie functie Leiden University...
 ---
+
 # Curriculum Vitae
 
 ## Persoonlijke informatie
 
 | | |
 | --- | --- |
-|Naam  		| Cornelius Gerardus (Norbert) van Veen|
-|Geslacht	| Man|
-|Geboortedatum | 31 maart 1976|
-|Geboorteplaats	| Alkemade|
-|Nationaliteit 	| Nederlands|
-|Huidig adres	| Zuideinde 33  2371 BP Roelofarendsveen|
-|Burgerlijke staat | Getrouwd, vader van tweeling|
-|Telefoon nr.	| 06 54973650|
-|Email		| norbertvanveen@ziggo.nl|
+| Naam | Cornelius Gerardus (Norbert) van Veen |
+| Geslacht | Man |
+| Geboortedatum | 31 maart 1976 |
+| Geboorteplaats | Alkemade |
+| Nationaliteit | Nederlands |
+| Huidig adres | Zuideinde 33  2371 BP Roelofarendsveen |
+| Burgerlijke staat | Getrouwd, vader van tweeling |
+| Telefoon nr. | 06 54973650 |
+| Email | norbertvanveen@ziggo.nl |
 
 <!-- ![](foto link) -->
 
 ## Opleidingen
-| Jaar | Opleiding |  |
-| :--- | :--- | :--- |
+| Jaar | Opleiding | 
+| :--- | :--- | 
 | 2009-2012 | Master of Mathematics and Science Education, MSc. Universiteit van Amsterdam |  
-| 1999-2001 | Lerarenopleiding (Natuurkunde) $1^{\mathrm{e}}$ graad: MEd. HR\&O en ICLON, Hoge School Rotterdam \& Universiteit Leiden. |  
-| 1995-1999 | Lerarenopleiding (Natuurkunde) $2^{\mathrm{e}}$ graad. HR\&O, Rotterdam. |  
+| 1999-2001 | Lerarenopleiding (Natuurkunde) $1^{\mathrm{e}}$ graad: MEd. HR\&O en ICLON, Hoge School Rotterdam \& Universiteit Leiden |  
+| 1995-1999 | Lerarenopleiding (Natuurkunde) $2^{\mathrm{e}}$ graad. HR\&O, Rotterdam |  
 | 1993-1995 | VWO: Bonaventuracollege, Leiden |  
 | 1988-1993 | HAVO: Bonaventuracollege, Leiden | 
 
