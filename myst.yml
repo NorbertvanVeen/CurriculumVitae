@@ -11,7 +11,7 @@ project:
     - id: output-pdf
   exports:
     - format: pdf
-      template: article_theme
+      template: arxiv_two_column
       output: exports/cv.pdf
       id: output-pdf
   # To autogenerate a Table of Contents, run "myst init --write-toc"
