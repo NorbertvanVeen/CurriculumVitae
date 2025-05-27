@@ -59,7 +59,7 @@ abstract: |
 | 2015 - Nu | Cursussen aan docenten over het gebruik van ICT in het wetenschappelijk onderwijs, bijv. spectrometers, FLIR IR-camera's, Coach 7 ( modelleren, videometen), LEGO Mindstorms EV3 en Spike Prime. |
 | 2008-2011 | Cursussen voor docenten op middelbare scholen en universiteiten over het gebruik van interactieve whiteboards in het (natuurkunde-)onderwijs (StarBoard, HD-, SMART- en ActivBoard) |
 
-## Gevolde Cursussen
+## Gevolgde Cursussen
 
 | | |
 | :--- | :--- |
@@ -101,5 +101,5 @@ Dr. Ir. C.F.J. Pols
 Practicum Coordinator/Education Fellow  
 Delft University of Technology  
 Telefoon: +31 152784728  
-E-mail: C.F.J.Pols@tudelft.nl  
+E-mail: c.f.j.pols@tudelft.nl  
 
