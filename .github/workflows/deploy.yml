@@ -67,6 +67,7 @@ jobs:
             fmtcount
             doi
             glossaries
+            background
       - name: Build PDF Assets
         run: myst build --pdf      
       - name: Build HTML Assets
