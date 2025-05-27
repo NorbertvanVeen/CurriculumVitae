@@ -61,6 +61,33 @@ jobs:
             titlesec
             txfonts
             xcolor
+            adjustbox
+            amsfonts
+            amsmath
+            amssymb
+  babel
+   booktabs
+   curvenote
+  datetime
+   doi
+   enumitem
+   fancyhdr
+  fancyvrb
+   float
+   framed
+  geometry
+   graphbox
+ graphicx
+  hyperref
+  inputenc
+   lmodern
+  microtype
+   natbib
+   nicefrac
+   ulem
+   url
+     xcolor
+     xkeyval
 
       - name: Build PDF Assets
         run: myst build --pdf      
