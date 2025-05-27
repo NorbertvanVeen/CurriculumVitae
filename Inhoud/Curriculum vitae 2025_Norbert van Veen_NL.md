@@ -4,16 +4,15 @@
 
 | | |
 | --- | --- |
-|Naam  		|	Cornelius Gerardus (Norbert) van Veen|
-|Geslacht	|	Man|
+|Naam  		| Cornelius Gerardus (Norbert) van Veen|
+|Geslacht	| Man|
 |Geboortedatum | 31 maart 1976|
-|Geboorteplaats	|	Alkemade|
+|Geboorteplaats	| Alkemade|
 |Nationaliteit 	| Nederlands|
-|Huidig adres	|	Zuideinde 33 \\
-			2371 BP Roelofarendsveen|
-|Burgerlijke staat |	Getrouwd, vader van tweeling|
-|Telefoon nr.	|	06 54973650|
-|Email		|	norbertvanveen@ziggo.nl|
+|Huidig adres	| Zuideinde 33  2371 BP Roelofarendsveen|
+|Burgerlijke staat | Getrouwd, vader van tweeling|
+|Telefoon nr.	| 06 54973650|
+|Email		| norbertvanveen@ziggo.nl|
 
 
 ![](https://cdn.mathpix.com/cropped/2025_05_27_ae269b34afa8749bad9dg-1.jpg?height=42&width=1256&top_left_y=769&top_left_x=676)
