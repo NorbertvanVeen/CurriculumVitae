@@ -50,6 +50,7 @@ jobs:
             inputenc
             lineno
             lipsum
+            mdframed
             natbib
             newfloat
             preprint
