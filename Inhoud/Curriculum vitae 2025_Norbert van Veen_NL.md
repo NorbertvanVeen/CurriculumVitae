@@ -4,6 +4,8 @@ site:
   hide_outline: false
   hide_toc: true
   hide_title_block: true
+  hide_keywords: true
+  hide_abstract: true
 
 abstract: CV t.b.v. sollicitatie functie Leiden University... 
 ---
