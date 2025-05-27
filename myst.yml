@@ -7,6 +7,8 @@ project:
   keywords: [CV]
   authors: [Norbert van Veen]
   date: 2025-05-27
+  abstract: CV t.b.v. sollicitatie functie Leiden University...
+  
 
   github: https://github.com/NorbertvanVeen/CurriculumVitae
   downloads:
@@ -18,4 +20,4 @@ project:
       id: output-pdf
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
-  template: book-theme
+  template: article-theme
