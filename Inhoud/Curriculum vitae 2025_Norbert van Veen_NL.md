@@ -1,3 +1,7 @@
+---
+abstract: |
+  -
+---
 # Curriculum Vitae
 
 ## Persoonlijke informatie
