@@ -33,59 +33,59 @@ Ontwikkeling Quantum experimenten voor Bèta-Partners (Quantum Leskist) met drs.
 
 ## Prijzen
 
-Eerste prijs voor het beste artikel in NVOX (2019): van Veen, N. \& Loos, S. "Onderzoek aan Cirkelzagen" NVOX 9, 2019
+- Eerste prijs voor het beste artikel in NVOX (2019): van Veen, N. \& Loos, S. "Onderzoek aan Cirkelzagen" NVOX 9, 2019
+- Derde prijs voor natuurkundelesmateriaal op WND natuurkundeconferentie (2019)
+- Tweede prijs voor natuurkundelesmateriaal op WND natuurkundeconferentie (2018)
+- Eerste prijs voor natuurkundelesmateriaal op WND natuurkundeconferentie (2014)
 
-Derde prijs voor natuurkundelesmateriaal op WND natuurkundeconferentie (2019)
+## Gegeven cursussen
 
-Tweede prijs voor natuurkundelesmateriaal op WND natuurkundeconferentie (2018)
-
-Eerste prijs voor natuurkundelesmateriaal op WND natuurkundeconferentie (2014)
-
-Gegeven cursussen
-
-| 2015 - Nu | Cursussen aan docenten over het gebruik van ICT in het wetenschappelijk onderwijs, bijv. spectrometers, FLIR IR-camera's, Coach 7 ( modelleren, videometen), LEGO Mindstorms EV3 en Spike Prime. |
+| | |
 | :--- | :--- |
+| 2015 - Nu | Cursussen aan docenten over het gebruik van ICT in het wetenschappelijk onderwijs, bijv. spectrometers, FLIR IR-camera's, Coach 7 ( modelleren, videometen), LEGO Mindstorms EV3 en Spike Prime. |
 | 2008-2011 | Cursussen voor docenten op middelbare scholen en universiteiten over het gebruik van interactieve whiteboards in het (natuurkunde-)onderwijs (StarBoard, HD-, SMART- en ActivBoard) |
 
-Cursussen
+## Gevolde Cursussen
 
-| 2017 | Quantum cursus voor docenten (Universiteit Leiden) |
+| | |
 | :--- | :--- |
+| 2017 | Quantum cursus voor docenten (Universiteit Leiden) |
 | 2014 | Cursus deeltjesfysica op Nikhef. |
 | 2013 | Relativiteitstheorie aan de Universiteit van Amsterdam |
 | 2012 | Cern (Zwitserland) : Nascholing |
 | 2012 | ICT Course for Collaborative, Project-Based Teaching and Learning, Malta, Europe |
 
-## Computer:
+## Vaardigheden
+### Computer:
 
-o MS office (Older and version 365)
-o Digibord software (ActivInspire)
-o Websites maken met WordPress. (Elementor)
-o Educatieve software; Coach 6 en Coach 7, Lego Mindstorms, NXT, EV3 \& Spike, Arduino
-o LateX
-o Programmeren: Python.
-o TestCorrect (Toetsprogramma)
-Talen:
+- MS office (Older and version 365)
+- Digibord software (ActivInspire)
+- Websites maken met WordPress. (Elementor)
+- Educatieve software; Coach 6 en Coach 7, Lego Mindstorms, NXT, EV3 \& Spike, Arduino
+- LateX
+- Programmeren: Python.
+- TestCorrect (Toetsprogramma)
+
+### Talen:
 o Engels: (Master level)
 o Duits: (proficient)
 
 ## Referenties
-
-Dr. Ir. P.W.S.M Logman
-Lecturer Physics Education
-Leiden University
-Telefoon: +31 715277490
+Dr. Ir. P.W.S.M Logman  
+Lecturer Physics Education  
+Leiden University  
+Telefoon: +31 715277490  
 E-mail: logman@physics.leidenuniv.nl
 
-Drs. A.H. Mooldijk
-Em. Universitair docent Bètawetenschappen
-Natuurkunde olympiade
-Universiteit Utrecht
-E-mail: a.h.mooldijk@uu.nl
+Drs. A.H. Mooldijk  
+Em. Universitair docent Bètawetenschappen  
+Natuurkunde olympiade  
+Universiteit Utrecht  
+E-mail: a.h.mooldijk@uu.nl  
 
-Dr. Ir. C.F.J. Pols
-Practicum Coordinator/Education Fellow
-Delft University of Technology
-Telefoon: +31 152784728
-E-mail: C.F.J.Pols@tudelft.nl
+Dr. Ir. C.F.J. Pols  
+Practicum Coordinator/Education Fellow  
+Delft University of Technology  
+Telefoon: +31 152784728  
+E-mail: C.F.J.Pols@tudelft.nl  
 
