@@ -68,6 +68,7 @@ jobs:
             doi
             glossaries
             background
+            everypage
       - name: Build PDF Assets
         run: myst build --pdf      
       - name: Build HTML Assets
