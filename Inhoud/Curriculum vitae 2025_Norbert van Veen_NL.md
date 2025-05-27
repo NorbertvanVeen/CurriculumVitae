@@ -4,6 +4,8 @@ site:
   hide_outline: false
   hide_toc: true
   hide_title_block: true
+
+abstract: CV t.b.v. sollicitatie functie Leiden University... 
 ---
 
 # Curriculum Vitae
