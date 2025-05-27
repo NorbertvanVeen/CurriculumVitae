@@ -14,8 +14,7 @@
 |Telefoon nr.	| 06 54973650|
 |Email		| norbertvanveen@ziggo.nl|
 
-
-![](https://cdn.mathpix.com/cropped/2025_05_27_ae269b34afa8749bad9dg-1.jpg?height=42&width=1256&top_left_y=769&top_left_x=676)
+<!-- ![](foto link) -->
 
 ## Opleidingen
 | Jaar | Opleiding |  |
