@@ -6,11 +6,4 @@ site:
   hide_title_block: true
 ---
 
-<div style="text-align: center">
-
-# Curriculum Vitae Norbert van Veen
-
-</div>
-
-
 
