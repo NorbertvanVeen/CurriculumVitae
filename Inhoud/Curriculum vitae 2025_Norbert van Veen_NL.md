@@ -1,5 +1,4 @@
 ---
-title: CV
 site:
   hide_outline: false
   hide_toc: true
