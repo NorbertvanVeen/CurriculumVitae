@@ -5,8 +5,8 @@ project:
   title: Template
   # description:
   # keywords: []
-  authors: [Freek Pols]
-  github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
+  authors: []
+  github: 
   downloads:
     - id: output-pdf
   exports:
@@ -16,11 +16,4 @@ project:
       id: output-pdf
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
-  template: book-theme
-  options:
-    favicon: favicon.ico
-    logo: Figuren/site_logo.png
-    folders: false
-  actions:
-    - title: report issue
-      url: https://github.com/TUD-SEEd/template/issues
+  template: article-theme
