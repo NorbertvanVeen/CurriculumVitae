@@ -8,7 +8,7 @@ site:
 
 <div style="text-align: center">
 
-# Template
+# Curriculum Vitae Norbert van Veen
 
 </div>
 
