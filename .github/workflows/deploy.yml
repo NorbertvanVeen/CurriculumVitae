@@ -41,7 +41,7 @@ jobs:
         with:
           packages: |  
             scheme-basic
-            xetex
+            xetex  
             latexmk
             hyperref
             microtype
@@ -52,6 +52,21 @@ jobs:
             enumitem
             framed
             booktabs
+            fontawesome5
+            tcolorbox
+            pdfcol
+            adjustbox            
+            varwidth  
+            ulem       
+            titlesec   
+            amsmath    
+            fancyvrb  
+            nicefrac
+            float
+            datetime
+            fmtcount
+            doi
+            glossaries
       - name: Build PDF Assets
         run: myst build --pdf      
       - name: Build HTML Assets
