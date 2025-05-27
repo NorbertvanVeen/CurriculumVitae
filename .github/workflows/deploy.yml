@@ -83,6 +83,7 @@ jobs:
             xcolor
             xkeyval
             zref-abspage
+            zref
 
 
 
