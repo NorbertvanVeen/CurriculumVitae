@@ -26,8 +26,8 @@ abstract: CV t.b.v. sollicitatie functie Leiden University...
 | Email | norbertvanveen@ziggo.nl |
 
 
-```
-{figure} ../Figuren/pasfoto1_2025.png :width: 50%
+```{figure} ../Figuren/pasfoto1_2025.png
+:width: 50%
 ```
 
 
