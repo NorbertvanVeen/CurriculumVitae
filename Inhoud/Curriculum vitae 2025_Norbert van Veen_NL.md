@@ -53,7 +53,7 @@ abstract: CV t.b.v. sollicitatie functie Leiden University...
 ## Andere activiteiten
 - Workshops op de internationale conferentie voor natuurkunde didactici (GIREP) op de Universiteit Leiden (Juli- 2025) (Experiments for physics education, Modelling in Physics education)
 - Workshops geven op de jaarlijkse WND-conferentie te Noordwijkerhout (conferentie voor natuurkundedocenten)
-- Auteur ShowdeFysica 1,2,3 en \& [show the physics](https://interactivetextbooks.tudelft.nl/showthephysics)
+- Auteur ShowdeFysica 2,3 en [show the physics](https://interactivetextbooks.tudelft.nl/showthephysics)
 - Ontwikkeling Quantum experimenten voor Bèta-Partners (Quantum Leskist) met drs. P.P.M Molenaar ${ }^{\dagger}$
 
 ## Prijzen
