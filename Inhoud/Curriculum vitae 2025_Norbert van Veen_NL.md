@@ -25,10 +25,11 @@ abstract: CV t.b.v. sollicitatie functie Leiden University...
 | Telefoon nr. | 06 54973650 |
 | Email | norbertvanveen@ziggo.nl |
 
+````{aside}
 ```{figure} ../Figuren/pasfoto1_2025.png
 :width: 50%
 ```
-
+````
 
 ## Opleidingen
 | Jaar | Opleiding | 
