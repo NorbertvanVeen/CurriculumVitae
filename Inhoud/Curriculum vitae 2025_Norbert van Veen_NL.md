@@ -27,7 +27,7 @@ abstract: CV t.b.v. sollicitatie functie Leiden University...
 
 
 ```{figure} ../Figuren/pasfoto1_2025.png
-:width: 50%
+:width: 25%
 ```
 
 
