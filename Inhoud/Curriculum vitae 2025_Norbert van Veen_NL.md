@@ -27,12 +27,6 @@ abstract: CV t.b.v. sollicitatie functie Leiden University...
 
 
 <img src="/Figuren/pasfoto1_2025.png" alt="Norbert" style="height: 200px; width:150px;"/>
-```{figure} /Figuren/pasfoto1_2025.png
----
-width: 70%
-align: center
-alt: Norbert
----
 
 ## Opleidingen
 | Jaar | Opleiding | 
